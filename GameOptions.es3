@@ -1,0 +1,98 @@
+{
+	"HighLatencyMode" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"TVVol" : {
+		"__type" : "float",
+		"value" : 0.5
+	},
+	"VoiceVol" : {
+		"__type" : "float",
+		"value" : 0.8
+	},
+	"UIVol" : {
+		"__type" : "float",
+		"value" : 0.8
+	},
+	"SFXVol" : {
+		"__type" : "float",
+		"value" : 1
+	},
+	"MusicVol" : {
+		"__type" : "float",
+		"value" : 0.2
+	},
+	"MasterVol" : {
+		"__type" : "float",
+		"value" : 1
+	},
+	"InvertY" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"InvertX" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"YSensitivity" : {
+		"__type" : "float",
+		"value" : 1
+	},
+	"XSensitivity" : {
+		"__type" : "float",
+		"value" : 1
+	},
+	"VideoAllow" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"Bloom" : {
+		"__type" : "float",
+		"value" : 1
+	},
+	"FOV" : {
+		"__type" : "float",
+		"value" : 70
+	},
+	"Quality" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"Antialiasing" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"Brightness" : {
+		"__type" : "float",
+		"value" : 0
+	},
+	"Fullscreen" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"Vsync" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Resolution" : {
+		"__type" : "Vector3",
+		"value" : {
+			"x" : 1920,
+			"y" : 1080,
+			"z" : 60
+		}
+	},
+	"GameLanguage" : {
+		"__type" : "string",
+		"value" : "Localization_EN"
+	},
+	"OptionsExists" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"ZSensitivity" : {
+		"__type" : "float",
+		"value" : 1
+	}
+}
